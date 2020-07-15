@@ -1,6 +1,6 @@
 # VMware-Appliance-Certificates
 
-This explains the installation and dcoumentation of Microsoft Certificate Authority Server certificates on VMware Appliances.
+This explains the installation and documentation of Microsoft Certificate Authority Server certificates on VMware Appliances.
 
 Examples of appliance are
 vCenter Server Appliance 6.7u3
